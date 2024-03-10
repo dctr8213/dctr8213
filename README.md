@@ -11,7 +11,7 @@
   </div>
 
 
-<h3 align="left">Hookup with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/rajesh198213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajesh198213" style="color:white" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21a31a05d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21a31a05d1" height="30" width="40" /></a>
